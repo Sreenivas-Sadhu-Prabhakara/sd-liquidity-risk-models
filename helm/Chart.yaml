@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-liquidity-risk-models
+description: "BIAN Service Domain: Liquidity Risk Models (Develop pattern, Risk and Compliance)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - develop
+annotations:
+  bian/business-area: "Risk and Compliance"
+  bian/business-domain: "Market and Operational Risk"
+  bian/asset-type: "Liquidity Risk Model"
+  bian/control-record: "Liquidity Risk Model Development Project"
